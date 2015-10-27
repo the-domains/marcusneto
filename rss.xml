@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[This is the grid site for Marcus Neto]]></title>
+        <description><![CDATA[This is the grid site for Marcus Neto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Oct 2015 17:58:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Interesting. Just getting started with The Grid. </p>]]></description>
+            <link>undefined63a0471f-fa44-462d-ab44-9ebbb6cb8c2a/index.html</link>
+            <guid isPermaLink="false">63a0471f-fa44-462d-ab44-9ebbb6cb8c2a</guid>
+            <pubDate>Tue, 27 Oct 2015 17:58:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
