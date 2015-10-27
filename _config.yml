@@ -2,6 +2,7 @@ name: marcusneto
 favicon: null
 layout_spectrum: 0.12910603848285973
 typography_spectrum: 0.14736454118974507
+title: This is the grid site for Marcus Neto
 cta:
   domain: null
   bucket: null
